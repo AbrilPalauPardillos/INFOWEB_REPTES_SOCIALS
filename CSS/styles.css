@@ -8,8 +8,8 @@ body {
 }
 
 header {
-    background-color: #1e3a8a;
-    color: white;
+    background-color: #72eda7;
+    color: #1f3b2b;
     padding: 20px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -23,8 +23,8 @@ header h1 {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #374151; 
-    color: white;
+    background-color: #72eda7; 
+    color: #1f3b2b;
     font-size: 0.9em;
     margin-top: 30px;
 }
@@ -77,7 +77,7 @@ nav {
 }
 
 .topic-link {
-    background-color: #3b82f6;
+    background-color: #1f3b2b;
     color: white;
     padding: 12px 25px;
     text-decoration: none;
@@ -89,7 +89,7 @@ nav {
 }
 
 .topic-link:hover {
-    background-color: #2563eb;
+    background-color: #72eda7;
     transform: scale(1.05);
 }
 
@@ -104,7 +104,7 @@ nav {
 }
 
 .back-link {
-    color: #3b82f6;
+    color: #1f3b2b;
     text-decoration: none;
     font-weight: bold;
     display: inline-block;
@@ -126,7 +126,7 @@ nav {
     margin-bottom: 30px;
     padding: 15px;
     background-color: #eff6ff;
-    border-left: 5px solid #3b82f6;
+    border-left: 5px solid #1f3b2b;
     border-radius: 5px;
 }
 
@@ -139,7 +139,7 @@ nav {
 }
 
 .info-section h2 {
-    color: #1e3a8a;
+    color: #1f3b2b;
     border-bottom: 2px solid #e0e0e0;
     padding-bottom: 10px;
     margin-top: 0;
@@ -148,18 +148,18 @@ nav {
 .impacto-box {
     margin-bottom: 20px;
     padding: 15px;
-    border: 1px solid #fbd3d3;
+    border: 1px solid #72eda7;
     background-color: #fffafa;
     border-radius: 8px;
 }
 
 .impacto-box h3 {
-    color: #b91c1c;
+    color: #1f3b2b;
     margin-top: 0;
 }
 
 .medidas-section .info-section h2 {
-    color: #065f46;
+    color: #1f3b2b;
 }
 
 .medidas-section ul {
@@ -169,7 +169,7 @@ nav {
 
 .medidas-section li {
     margin-bottom: 10px;
-    color: #374151; 
+    color: #1f3b2b; 
 }
 
 @media (max-width: 600px) {
